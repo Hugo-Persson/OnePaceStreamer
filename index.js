@@ -9,7 +9,7 @@ const port = process.env.PORT || 8000;
 
 const client = new WebTorrent();
 
-app.listen(port, "192.168.56.1", () => {
+app.listen(port, () => {
     console.log("PORT: " + port);
 })
 
