@@ -1,3 +1,6 @@
-main.svelte-csi720{text-align:center;padding:1em;max-width:240px;margin:0 auto}h1.svelte-csi720{color:#ff3e00;text-transform:uppercase;font-size:4em;font-weight:100}@media(min-width: 640px){main.svelte-csi720{max-width:none}}#guide.svelte-csi720{text-align:left}
+@media(min-width: 640px){}
+#container.svelte-11rv4o6{height:100vh;width:100vw;display:grid;grid-template-rows:6% 94%;grid-template-columns:100%}#media.svelte-11rv4o6{overflow-y:scroll;overflow-x:hidden;background-color:#212121;color:white}#navbar.svelte-11rv4o6{padding:10px;text-align:center;display:grid;grid-template-columns:25% 50% 25%;background-color:#2e2e2e}tr.svelte-11rv4o6:nth-child(even){background-color:#2e2e2e}tr.svelte-11rv4o6:nth-child(odd){background-color:#212121}tr.svelte-11rv4o6{padding:30px}table.svelte-11rv4o6{margin:0;width:100%;line-height:250%}input.svelte-11rv4o6{width:100%}.link.svelte-11rv4o6{text-align:center}
+main.svelte-eju297.svelte-eju297{color:white}#top.svelte-eju297.svelte-eju297{text-align:center;margin-bottom:50px}input.svelte-eju297.svelte-eju297{width:40%}#navigation.svelte-eju297.svelte-eju297{display:grid;grid-template-columns:10% 15% 60% 15%;align-items:center}#navigation.svelte-eju297 div.svelte-eju297{text-align:left}#prev.svelte-eju297.svelte-eju297{text-align:right !important}
+a.svelte-1dm15xt{background-color:#3f729b;padding:5px 10px;margin:5px;border-radius:5px;color:white}
 
 /*# sourceMappingURL=bundle.css.map */
