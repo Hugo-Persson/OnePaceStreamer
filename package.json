@@ -12,7 +12,7 @@
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "fluent-ffmpeg": "^2.1.2",
     "stream-body-parser": "0.0.1",
     "stream-transcoder": "0.0.5",
